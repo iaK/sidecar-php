@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
-        "hammerstone/sidecar": "^0.3.6",
+        "php": "^8.2",
+        "hammerstone/sidecar": "^0.4.1",
         "laravel/serializable-closure": "^1.0.0",
         "laravel/vapor-core": "^2.11.0"
     },
