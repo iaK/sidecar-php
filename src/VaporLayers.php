@@ -23,55 +23,55 @@ class VaporLayers
 
     public static $layers = [
         Region::US_EAST_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2, self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2, self::PHP_82,
         ],
         Region::US_EAST_2 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::US_WEST_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::US_WEST_2 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_SOUTH_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_NORTHEAST_3 => [
-            self::PHP_74 => 2, self::PHP_80 => 2, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 2, self::PHP_80 => 2, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_NORTHEAST_2 => [
-            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_SOUTHEAST_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_SOUTHEAST_2 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::AP_NORTHEAST_1 => [
-            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::CA_CENTRAL_1 => [
-            self::PHP_74 => 2, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 2, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::EU_CENTRAL_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::EU_WEST_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::EU_WEST_2 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::EU_WEST_3 => [
-            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 1,self::PHP82,
+            self::PHP_74 => 4, self::PHP_80 => 5, self::PHP_81 => 1,self::PHP_82,
         ],
         Region::EU_NORTH_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
         Region::SA_EAST_1 => [
-            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP82,
+            self::PHP_74 => 3, self::PHP_80 => 4, self::PHP_81 => 2,self::PHP_82,
         ],
     ];
 
